@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iqtidor School Xususiy Maktabi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+            background-image: url('1.png'); /* Using image for background */
+            background-size: cover;
+        }
+        header img {
+            max-width: 150px;
+            margin-top: 20px;
+        }
+        section {
+            padding: 2em;
+            max-width: 800px;
+            margin: auto;
+            background-color: white;
+            margin-bottom: 2em;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #4CAF50;
+        }
+        footer {
+            text-align: center;
+            padding: 1em 0;
+            background-color: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="2.png" alt="Iqtidor School Logo"> <!-- Including the logo -->
+        <h1>Iqtidor School Xususiy Maktabi</h1>
+    </header>
+
+    <section>
+        <h2>Biz Haqimizda</h2>
+        <p>“IQTIDOR SCHOOL” yangi iqtidorlarni birga kashf etamiz! Bizning maktabimiz 1-4 sinflar uchun qabul olib boradi va o'quvchilarimizga arab, ingliz va rus tillarida bilim beradi. Shuningdek, IT, chuqurlashtirilgan matematika va sport bo'yicha chuqur ta'lim ham taklif etamiz. O'quvchilarimiz 3 mahal halol taomnoma bilan ta'minlanadi.</p>
+        <p>“IQTIDOR SCHOOL” yangi iqtidorlarni birga kashf etamiz! Bizning maktabimiz 1-4 sinflar uchun qabul olib boradi va o'quvchilarimizga quyidagi fanlar bo'yicha yuqori sifatli ta'lim beradi:</p>
+        <ul>
+            <li>Arab tili</li>
+            <li>Ingliz tili</li>
+            <li>Rus tili</li>
+        </ul>
+        <p>Bundan tashqari, IT, chuqurlashtirilgan matematika va sport bo'yicha chuqur va zamonaviy ta'lim dasturlarini taklif etamiz. O'quvchilarimizning sog'lom va to'yimli ovqatlanishini ta'minlash maqsadida, ularga 3 mahal halol taomnoma taqdim etamiz.</p>
+        <p>“IQTIDOR SCHOOL”da biz har bir o'quvchining qobiliyatlarini rivojlantirish va yangi iqtidorlarni kashf etish uchun eng yaxshi sharoitlarni yaratishga intilamiz. Maktabimizga xush kelibsiz!</p>
+    </section>
+
+    <section>
+        <h2>Dasturlarimiz</h2>
+        <ul>
+            <li>Arab tili</li>
+            <li>Ingliz tili</li>
+            <li>Rus tili</li>
+            <li>IT</li>
+            <li>Chuqurlashtirilgan matematika</li>
+            <li>Sport</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Qabul</h2>
+        <p>2024-2025 o'quv yili uchun ro'yxatdan o'tish boshlandi. Qo'shimcha ma'lumot olish uchun biz bilan bog'laning:</p>
+        <p>Telefon: +998919810303, +998958890303</p>
+        <p>Manzil: Ibn Sino ko'chasi, Termiz shahar, O'zbekiston</p>
+    </section>
+
+    <section>
+        <h2>O'qituvchilar</h2>
+        <p>Bizning tajribali va malakali o'qituvchilarimiz sizning farzandingizning bilim olish yo'lida eng yaxshi yo'ldosh bo'lishadi.</p>
+    </section>
+
+    <section>
+        <h2>Tadbirlar</h2>
+        <p>Bizda turli xil madaniy va sport tadbirlari o'tkaziladi. Yangi iqtidorlarni kashf etish uchun ajoyib imkoniyatlar mavjud.</p>
+    </section>
+
+    <section>
+        <h2>Guvohnomalar</h2>
+        <p>Ota-onalar va o'quvchilarimizning fikr-mulohazalari:</p>
+        <blockquote>"IQTIDOR SCHOOL - bu mening farzandim uchun eng yaxshi tanlov!" - Ota-ona</blockquote>
+    </section>
+
+    <section>
+        <h2>Galereya</h2>
+        <p>Bizning maktab hayotidan suratlar:</p>
+        <img src="1.png" alt="Galereya rasmi" style="width:100%;max-width:800px;">
+    </section>
+
+    <section>
+        <h2>Bog'lanish</h2>
+        <p>Biz bilan bog'lanish uchun quyidagi ma'lumotlardan foydalaning:</p>
+        <p>Email: info@iqtidorschool.uz</p>
+        <p>Telefon: +998919810303, +998958890303</p>
+        <p>Manzil: Ibn Sino ko'chasi, Termiz shahar, O'zbekiston</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Iqtidor School Xususiy Maktabi. Barcha huquqlar himoyalangan.</p>
+    </footer>
+</body>
+</html>
